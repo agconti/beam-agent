@@ -1,0 +1,5 @@
+services:
+  pipelines:
+    build: .
+    entrypoint: /bin/bash
+    command: python main.py --runner=DirectRunner
