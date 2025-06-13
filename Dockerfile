@@ -1,0 +1,1 @@
+FROM apache/beam_python3.12_sdk:2.65.0
